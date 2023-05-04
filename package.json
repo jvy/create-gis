@@ -1,0 +1,55 @@
+{
+  "_from": "create-gis",
+  "_id": "create-gis@1.0.13",
+  "_inBundle": false,
+  "_integrity": "sha512-OLompt8cKRdlq4ghZ1Y7Hunj/pXzbnrHgqqq8GE4wkAiczGx6ov7ptoZnPsgNwNwDd99Z4f23p8Eb2jkZXVLuw==",
+  "_location": "/create-gis",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "create-gis",
+    "name": "create-gis",
+    "escapedName": "create-gis",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/create-gis/-/create-gis-1.0.13.tgz",
+  "_shasum": "44927080db914b53e10052dd671507d64393363c",
+  "_spec": "create-gis",
+  "_where": "D:\\jvy\\test\\test",
+  "author": "",
+  "bin": {
+    "create-gis": "index.js",
+    "cvd": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "kolorist": "^1.2.9",
+    "minimist": "^1.2.5"
+  },
+  "deprecated": false,
+  "description": "The recommended way to start a Vite-powered GIS project support  Cesium+vue mars3d+vue ## Usage create a new project just run: ```sh npm create gis ``` ## License [The MIT License](http://opensource.org/licenses/MIT)",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [
+    "gis",
+    "Cesium",
+    "cesium vue",
+    "Mars3d"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "create-gis",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.13"
+}
