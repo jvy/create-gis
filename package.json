@@ -45,6 +45,14 @@
     "cesium vue",
     "Mars3d"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvy/create-gis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jvy/create-gis/issues"
+  },
+  "homepage": "https://github.com/jvy/create-gis/tree/main#readme",
   "license": "MIT",
   "main": "index.js",
   "name": "create-gis",
